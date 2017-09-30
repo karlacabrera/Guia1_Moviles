@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Guia1_moviles</string>
+    <string name="lblEntrada">1+1</string>
+    <string name="lblResultado">=20</string>
+    <string name="btnAC">AC</string>
+    <string name="btnDEL">DEL</string>
+    <string name="btnSUM">+</string>
+    <string name="btnRES">-</string>
+    <string name="btn7">7</string>
+    <string name="btn8">8</string>
+    <string name="btn9">9</string>
+    <string name="btnMUL">*</string>
+    <string name="btn4">4</string>
+    <string name="btn5">5</string>
+    <string name="btn6">6</string>
+    <string name="btnDIV">/</string>
+    <string name="btn1">1</string>
+    <string name="btn2">2</string>
+    <string name="btn3">3</string>
+    <string name="btnIGUAL">=</string>
+    <string name="btn0">0</string>
+</resources>
